@@ -12,7 +12,7 @@
 > Jongho Park, Jaeseung Park, Zheyang Xiong, Nayoung Lee, Jaewoong Cho, Samet Oymak, Kangwook Lee, Dimitris Papailiopoulos<br>
 > _**Preprint**_<br>
 > [![arXiv](https://img.shields.io/badge/arXiv-2402.04248-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2402.04248)<br>
-> <img src="asset/can-1.svg" width="700">
+> <img src="asset/can-1.svg" width="300">
 
 > **Is Mamba Capable of In-Context Learning?**<br>
 > Riccardo Grazzi, Julien Siems, Simon Schrodi, Thomas Brox, Frank Hutter<br>
@@ -24,7 +24,7 @@
 > Chloe Wang, Oleksii Tsepa, Jun Ma, Bo Wang<br>
 > _**Preprint**_<br>
 > [![arXiv](https://img.shields.io/badge/arXiv-2402.00789-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2402.00789) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/bowang-lab/Graph-Mamba)<br>
-> <img src="asset/graph-mamba-1.svg" width="700">
+> <img src="asset/graph-mamba-1.svg" width="500">
 
 > **Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**<br>
 > Lianghui Zhu, Bencheng Liao, Qian Zhang, Xinlong Wang, Wenyu Liu, Xinggang Wang<br>
