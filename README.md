@@ -12,7 +12,7 @@
 > Ziyang Wang, Jian-Qing Zheng, Yichi Zhang, Ge Cui, Lei Li<br>
 > _**Preprint**_<br>
 > [![arXiv](https://img.shields.io/badge/arXiv-2402.05079-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2402.05079)<br>
-> <img src="asset/Mamba-UNet-1.svg" width="700">
+> <img src="asset/Mamba-UNet-1.svg" width="500">
 
 > **Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks**<br>
 > Jongho Park, Jaeseung Park, Zheyang Xiong, Nayoung Lee, Jaewoong Cho, Samet Oymak, Kangwook Lee, Dimitris Papailiopoulos<br>
@@ -24,7 +24,7 @@
 > Zhuoran Zheng, Chen Wu<br>
 > _**Preprint**_<br>
 > [![arXiv](https://img.shields.io/badge/arXiv-2402.04139-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2402.04139) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/zzr-idam/UVM-Net)<br>
-> <img src="asset/uvm-1.svg" width="300">
+> <img src="asset/uvm-1.svg" width="600">
 
 > **Is Mamba Capable of In-Context Learning?**<br>
 > Riccardo Grazzi, Julien Siems, Simon Schrodi, Thomas Brox, Frank Hutter<br>
@@ -42,7 +42,7 @@
 > Zhaohu Xing, Tian Ye, Yijun Yang, Guang Liu, Lei Zhu<br>
 > _**Preprint**_<br>
 > [![arXiv](https://img.shields.io/badge/arXiv-2401.13560-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2401.13560) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/ge-xing/SegMamba)<br>
-> <img src="asset/SegMamba-1.svg" width="700">
+> <img src="asset/SegMamba-1.svg" width="650">
 
 > **Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**<br>
 > Lianghui Zhu, Bencheng Liao, Qian Zhang, Xinlong Wang, Wenyu Liu, Xinggang Wang<br>
