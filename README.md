@@ -44,6 +44,12 @@
 > [![arXiv](https://img.shields.io/badge/arXiv-2401.13560-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2401.13560) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/ge-xing/SegMamba)<br>
 > <img src="asset/SegMamba-1.svg" width="650">
 
+> **VMamba: Visual State Space Model**<br>
+> Yue Liu, Yunjie Tian, Yuzhong Zhao, Hongtian Yu, Lingxi Xie, Yaowei Wang, Qixiang Ye, Yunfan Liu<br>
+> _**Preprint**_<br>
+> [![arXiv](https://img.shields.io/badge/arXiv-2401.10166-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2401.10166) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/MzeroMiko/VMamba)<br>
+> <img src="asset/VMamba-1.svg" width="700">
+
 > **Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**<br>
 > Lianghui Zhu, Bencheng Liao, Qian Zhang, Xinlong Wang, Wenyu Liu, Xinggang Wang<br>
 > _**Preprint**_<br>
